@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063565691339",
+    "project_id": "egzamino-uzd",
+    "storage_bucket": "egzamino-uzd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063565691339:android:9d0bd36583d324a8c54e4e",
+        "android_client_info": {
+          "package_name": "com.example.egzamino_uzd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzrRKbMgUNmDuXrXYTqIaeoO8fLtGXrps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
